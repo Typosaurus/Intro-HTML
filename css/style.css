@@ -1,0 +1,23 @@
+h3{
+    color:pink;
+    background-color: salmon;
+}
+h1{
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.size {
+    width: 400px;
+}
+table, th, td {
+    border: 1px solid hotpink;
+  }
+.font {
+    font-family: Verdana;
+    color: indianred;
+}
